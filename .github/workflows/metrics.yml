@@ -58,11 +58,10 @@ jobs:
             template: classic
             base: ""
             config_timezone: Asia/Shanghai
-            plugin_topics: yes
-            plugin_topics_limit: 0
-            plugin_topics_mode: icons
             plugin_achievements: yes
             plugin_achievements_secrets: yes
             plugin_achievements_threshold: C
+            plugin_achievements_limit: 6
             plugin_achievements_ignored: member, worker, explorer, automator, infographile
-            config_order: topics, achievements
+            plugin_stargazers: yes
+            config_order: achievements, stargazers
