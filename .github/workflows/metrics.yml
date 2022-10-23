@@ -14,7 +14,7 @@ jobs:
       runs-on: ubuntu-latest
       steps:
         - name: left
-          uses: ZerolAcqua/metrics@v1.1
+          uses: TonyCrane/metrics@v1.1
           with:
             # Your GitHub token
             token: ${{ secrets.TOKEN }}
