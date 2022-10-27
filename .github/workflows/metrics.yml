@@ -62,6 +62,6 @@ jobs:
             plugin_achievements_limit: 6
             plugin_achievements_ignored: member, worker, explorer, automator, infographile
             plugin_rss: yes
-            plugin_rss_source: https://zerolacqua.top/atom.xml
+            plugin_rss_source: https://blog.zerolacqua.top/atom.xml
             plugin_rss_limit: 3
             config_order: achievements, rss 
