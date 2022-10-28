@@ -2,8 +2,8 @@
 
 <p align="center">
   <samp>
-    <a href="https://zerolacqua.top/about/me/">me</a> ∙
-    <a href="https://zerolacqua.top/">blog</a> ∙
+    <a href="https://blog.zerolacqua.top/about/me/">me</a> ∙
+    <a href="https://blog.zerolacqua.top/">blog</a> ∙
     <a href="https://space.bilibili.com/26960382">bilibili</a>
   </samp>
 </p>
