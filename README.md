@@ -1,14 +1,6 @@
 <h3 align="center"> ZerolAcqua / 零醇丘卡</h3>
 
 <p align="center">
-  <samp>
-    <a href="https://blog.zerolacqua.top/about/me/">me</a> ∙
-    <a href="https://blog.zerolacqua.top/">blog</a> ∙
-    <a href="https://space.bilibili.com/26960382">bilibili</a>
-  </samp>
-</p>
-
-<p align="center">
   <a href="https://github.com/ZerolAcqua">
     <img width="400" align="top" src="https://github.com/ZerolAcqua/ZerolAcqua/blob/master/metrics.left.svg" />
   </a>
