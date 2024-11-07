@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/ZerolAcqua">
-    <img width="400" align="top" src="https://github.com/ZerolAcqua/ZerolAcqua/blob/master/metrics.left.svg" />
+    <img width="400" align="top" src="https://github.com/ZerolAcqua/ZerolAcqua/raw/master/metrics.left.svg" />
   </a>
   &emsp;
   <a href="https://github.com/ZerolAcqua">
-    <img width="400" align="top" src="https://github.com/ZerolAcqua/ZerolAcqua/blob/master/metrics.right.svg" />
+    <img width="400" align="top" src="https://github.com/ZerolAcqua/ZerolAcqua/raw/master/metrics.right.svg" />
   </a>
 </p>
 
